@@ -43,7 +43,7 @@ In this study, the PPG signals and corresponding BPs derived from the MIMIC-III 
   
 ### Performance
 
-The results demonstrate the feasibility of hypertension detection from PPG using random convolution kernels on completely unseen subjects, with a weighted average F1-score of 71.6% and sensitivity of 69.1%. 
+The results demonstrate the feasibility of hypertension detection from PPG using random convolution kernels on completely unseen subjects, with a weighted average **F1-score of 71.6%** and **sensitivity of 69.1%**. 
 
 Relying solely on the heart-rate feature for hypertension detection leads to a significantly lower sensitivity of 50.3%. Although this sensitivity is slightly better than chance level, it alone is insufficient for detecting hypertension. This indicates that in addition to heart rate, PPG can provide many BP-related informative attributes that can enhance classification performance significantly.
 
