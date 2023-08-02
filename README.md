@@ -9,7 +9,7 @@ Please install the following Python (3.8) libraries:
 
 - pyampd
 - scipy
-- mat73
+- numba
 - sklearn
 - pandas
 - numpy
