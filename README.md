@@ -1,6 +1,6 @@
 # Hypertension Detection From High-Dimensional Representation of Photoplethysmogram Signals
 
-The paper has been accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23), Oct. 15–18, 2023, Pittsburgh, Pennsylvania, USA
+The paper has been accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23), Oct. 15–18, 2023, Pittsburgh, Pennsylvania, USA.
 
 This repository contains the codes corresponding to study hypertension detection from PPG using MiniROCKET.
 
