@@ -2,7 +2,7 @@
 
 The paper has been accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23), Oct. 15–18, 2023, Pittsburgh, Pennsylvania, USA
 
-This repository contains the codes corresponding to study hypertension using PPG.
+This repository contains the codes corresponding to study hypertension detection from PPG using MiniROCKET.
 
 ## Requirements
 Please install the following Python (3.8) libraries:
