@@ -54,7 +54,7 @@ In order to study the effect of training set size on the models' performance, th
 When only 50% of the training data was used, the highest F1-score amongst the models dropped from 71.6% to 69.2%. Similarly, using 25% of the training samples led to a further decrease to 65.0%. In all scenarios, MiniROCKET consistently outperformed all other methods. The trends indicated by this plot suggest that increasing the size of the training dataset, can result in higher classification accuracy.
 
 <p align="center">
-<img src="plots/dataset_size_hypertension_performance.png" width=40% height=40%>
+<img src="plots/dataset_size_hypertension_performance.png" width=60% height=60%>
 </p>
 
 ## Citing this work
