@@ -4,7 +4,8 @@
 
 The paper has been accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23), Oct. 15–18, 2023, Pittsburgh, Pennsylvania, USA.
 
-Abstract:
+**Abstract**
+
 Hypertension is commonly referred to as the "silent killer", since it can lead to severe health complications without any visible symptoms. Early detection of hypertension is crucial in preventing significant health issues. Although some studies suggest a relationship between blood pressure and certain vital signals, such as Photoplethysmogram (PPG), reliable generalization of the proposed blood pressure estimation methods is not yet guaranteed. This lack of certainty has resulted in some studies doubting the existence of such relationships, or considering them weak and limited to heart rate and blood pressure. In this paper, a high-dimensional representation technique based on random convolution kernels is proposed for hypertension detection using PPG signals. The results show that this relationship extends beyond heart rate and blood pressure, demonstrating the feasibility of hypertension detection with generalization. Additionally, the utilized transform using convolution kernels, as an end-to-end time-series feature extractor, outperforms the methods proposed in the previous studies and state-of-the-art deep learning models.
 
 Please cite as:
@@ -77,7 +78,7 @@ When only 50% of the training data was used, the highest F1-score amongst the mo
 
 ## Citing this work
 Please use the following citation:
-```
+```bibtex
 @misc{hasanzadeh2023hypertension,
       title={Hypertension Detection From High-Dimensional Representation of Photoplethysmogram Signals}, 
       author={Navid Hasanzadeh and Shahrokh Valaee and Hojjat Salehinejad},
