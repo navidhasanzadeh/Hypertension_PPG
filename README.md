@@ -21,7 +21,7 @@ Please cite as:
 }
 ```
 
-This repository contains the codes corresponding to study the feasibility of hypertension detection from PPG using MiniROCKET.
+This repository contains the codes corresponding to study the feasibility of hypertension detection from PPG using [MiniROCKET](https://github.com/angus924/minirocket).
 
 ## Requirements
 Please install the following Python (3.8) libraries:
@@ -51,7 +51,7 @@ Please install the following Python (3.8) libraries:
 
 ### Dataset
 
-In this study, the PPG signals and corresponding BPs derived from the MIMIC-III dataset are used. The BP values are categorized into normal and hypertension classes based on ESC/ESH guidelines. This dataset comprises  3750
+In this study, the PPG signals and corresponding BPs derived from the [MIMIC-III dataset](https://zenodo.org/record/5590603) are used. The BP values are categorized into normal and hypertension classes based on ESC/ESH guidelines. This dataset comprises  3750
   subjects for training and  625
   subjects for testing. The training and test datasets are standardized and divided at subject level to avoid any overlap. There are  1,000,000
   PPG signals for training,  250,000
