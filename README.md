@@ -1,5 +1,7 @@
 # Hypertension Detection From High-Dimensional Representation of Photoplethysmogram Signals
 
+[Published Paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10313498)
+
 [arXiv:2308.02425](https://arxiv.org/abs/2308.02425) (preprint)
 
 The paper has been accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23), Oct. 15–18, 2023, Pittsburgh, Pennsylvania, USA.
