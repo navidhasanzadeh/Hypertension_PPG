@@ -13,13 +13,13 @@ Hypertension is commonly referred to as the "silent killer", since it can lead t
 Please cite as:
 
 ```bibtex
-@misc{hasanzadeh2023hypertension,
-      title={Hypertension Detection From High-Dimensional Representation of Photoplethysmogram Signals}, 
-      author={Navid Hasanzadeh and Shahrokh Valaee and Hojjat Salehinejad},
-      year={2023},
-      eprint={2308.02425},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@inproceedings{hasanzadeh2023hypertension,
+  title={Hypertension Detection From High-Dimensional Representation of Photoplethysmogram Signals},
+  author={Hasanzadeh, Navid and Valaee, Shahrokh and Salehinejad, Hojjat},
+  booktitle={2023 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)},
+  pages={1--4},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
